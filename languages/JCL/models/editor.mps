@@ -527,6 +527,9 @@
       <node concept="l2Vlx" id="45WydV1TDIw" role="2iSdaV" />
       <node concept="3F0ifn" id="45WydV1TYWn" role="3EZMnx">
         <property role="3F0ifm" value="//" />
+        <node concept="VechU" id="5Pu9M1j0goR" role="3F10Kt">
+          <property role="Vb096" value="DARK_GREEN" />
+        </node>
       </node>
       <node concept="XafU7" id="45WydV1TDIy" role="3EZMnx">
         <property role="ihaIw" value="        " />
